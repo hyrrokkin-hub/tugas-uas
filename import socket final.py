@@ -1,6 +1,8 @@
-import socket
 import tkinter as tk
 from tkinter import messagebox
+import socket
+
+
 
 def scan_ports(host, start_port, end_port):
     open_ports = []
