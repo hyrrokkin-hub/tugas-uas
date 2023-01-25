@@ -12,6 +12,6 @@ Program ini kami buat untuk menyelesaikan final project pemrograman python
 dengan tema aplikasi pemantauan paket (scanning port)
 
 Path Aplikasi dari program kami :
-terdapat dalam File Final_Project_Scanning_Port-20230124T162653Z-001.zip terdapat file Final_Project_Scanning_Port dengan ekstensi .exe
+terdapat dalam File Final Project.zip terdapat file Final_Project_Scanning_Port dengan ekstensi .exe
 
 refrensi program : www.geeksforgeeks.org/port-scanner-using-python/
